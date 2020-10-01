@@ -137,7 +137,7 @@
             "enableAutomaticUpdates": true
           },
           "secrets": [],
-          "allowExtensionOperations": true,
+          "allowExtensionOperations": true
              },
         "networkProfile": {
           "networkInterfaces": [
